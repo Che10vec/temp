@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T20:25:09.684Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="OBAImRhi8LtHh92v074D" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-05T20:27:47.147Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="m4ff0rxnrrhSnCBmf6yp" version="21.0.2" type="github">
   <diagram id="S3kL3NknCSAAhCIoJTSs" name="Страница 1">
     <mxGraphModel dx="780" dy="5138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -469,9 +469,9 @@
             <mxPoint x="650" y="-4490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GKbju8aVbSYvYVE8FwiC-118" value="Employed&lt;br&gt;(&amp;lt;=20)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#1D3557;rounded=0;" parent="GKbju8aVbSYvYVE8FwiC-111" vertex="1" connectable="0">
+        <mxCell id="GKbju8aVbSYvYVE8FwiC-118" value="(0;20)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#1D3557;rounded=0;" parent="GKbju8aVbSYvYVE8FwiC-111" vertex="1" connectable="0">
           <mxGeometry x="0.0017" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="45" y="19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GKbju8aVbSYvYVE8FwiC-113" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="GKbju8aVbSYvYVE8FwiC-78" target="GKbju8aVbSYvYVE8FwiC-65" edge="1">
